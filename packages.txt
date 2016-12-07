@@ -1,31 +1,34 @@
-aafire \
-apcalc \
-aspell \
-aspell-en \
-cmatrix \
-cowsay \
-cowthink \
-espeak \
-figlet \
-fortune-mod \
-git \
-gparted \
-slashem \
-htop \
-irssi \
-libcurses-perl \
-mc \
-meld \
-mutt \
-nethack-console \
-oneko \
-perl-doc \
-qalc \
-shutter \
-sl \
-taskwarrior \
-toilet \
-weather-util \
-weather-util-data \
-xcowsay \
+apcalc
+aspell
+aspell-en
+cmatrix
+cowsay
+espeak
+figlet
+fortune-mod
+git
+git-doc
+gitg
+gitk
+gparted
+slashem
+htop
+irssi
+libaa-bin
+libcurses-perl
+mc
+meld
+mutt
+nethack-console
+oneko
+perl-doc
+qalc
+shutter
+scons
+sl
+taskwarrior
+toilet
+weather-util
+weather-util-data
+xcowsay
 
