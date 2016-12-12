@@ -1,4 +1,5 @@
 apcalc
+artha
 aspell
 aspell-en
 cmatrix
@@ -22,7 +23,9 @@ mutt
 nethack-console
 oneko
 perl-doc
+python-gpgme
 qalc
+qgit
 shutter
 scons
 sl
