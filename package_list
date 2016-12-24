@@ -28,6 +28,7 @@ oneko
 openjdk-9-jdk
 openjdk-9-jre
 openjdk-9-doc
+openssh-server
 perl-doc
 python-gpgme
 qalc
