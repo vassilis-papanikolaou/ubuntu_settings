@@ -1,4 +1,7 @@
 #!/bin/bash
+
+cpan Term::Animation
+
 cd /tmp
 wget http://www.robobunny.com/projects/asciiquarium/asciiquarium.tar.gz
 tar -zxvf asciiquarium.tar.gz
