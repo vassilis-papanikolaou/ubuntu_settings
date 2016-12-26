@@ -16,6 +16,7 @@ gitk
 gparted
 slashem
 htop
+laptop-mode-tools
 irssi
 libaa-bin
 libcurses-perl
@@ -36,6 +37,7 @@ qgit
 shutter
 scons
 sl
+stellarium
 taskwarrior
 toilet
 weather-util
