@@ -5,9 +5,11 @@ aspell
 aspell-en
 audacious
 bb
+byobu
 calibre
 cmatrix
 cowsay
+emacs
 espeak
 figlet
 fortune-mod
@@ -18,6 +20,8 @@ gitk
 gparted
 slashem
 htop
+i3
+lbdb
 idle3
 irssi
 laptop-mode-tools
@@ -38,9 +42,11 @@ perl-doc
 python-gpgme
 qalc
 qgit
+remmina
 shutter
 scons
 sl
+stow
 stellarium
 synaptic
 taskwarrior
