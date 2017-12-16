@@ -8,8 +8,11 @@ bb
 bpython
 build-essential
 cmake
+byobu
+calibre
 cmatrix
 cowsay
+emacs
 espeak
 figlet
 fortune-mod
@@ -18,7 +21,10 @@ git-doc
 gitg
 gitk
 gparted
+slashem
 htop
+i3
+lbdb
 idle3
 ipython
 irssi
@@ -44,10 +50,12 @@ python-gpgme
 python3-dev
 qalc
 qgit
+remmina
 shutter
 scons
 sl
 slashem
+stow
 stellarium
 synaptic
 taskwarrior

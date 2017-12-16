@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cpan Term::Animation
+sudo cpan Term::Animation
 
 cd /tmp
 wget http://www.robobunny.com/projects/asciiquarium/asciiquarium.tar.gz
