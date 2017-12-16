@@ -12,10 +12,13 @@ byobu
 calibre
 cmatrix
 cowsay
+darktable
+eclipse
 emacs
 espeak
 figlet
 fortune-mod
+gimp
 git
 git-doc
 gitg
@@ -24,6 +27,7 @@ gparted
 slashem
 htop
 i3
+inkscape
 lbdb
 idle3
 ipython
@@ -31,8 +35,12 @@ irssi
 laptop-mode-tools
 libaa-bin
 libcurses-perl
+libglade2-0
+libglade2-dev
 libncurses5-dev
 libncursesw5-dev
+libssl-dev
+libssl-doc
 lmms
 mc
 meld
@@ -66,4 +74,3 @@ weather-util
 weather-util-data
 xaos
 xcowsay
-
