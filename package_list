@@ -17,8 +17,10 @@ eclipse
 emacs
 espeak
 figlet
+finger
 fortune-mod
 gimp
+gimp-help-en
 git
 git-doc
 gitg
@@ -61,6 +63,7 @@ qgit
 remmina
 shutter
 scons
+screen
 sl
 slashem
 stow
