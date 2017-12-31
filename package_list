@@ -7,9 +7,10 @@ audacious
 bb
 bpython
 build-essential
-cmake
 byobu
 calibre
+chrome-gnome-shell
+cmake
 cmatrix
 cowsay
 darktable
